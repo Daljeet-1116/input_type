@@ -1,9 +1,4 @@
-# Project Name 🚀
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/your-repo)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo?style=social)
-![License](https://img.shields.io/github/license/yourusername/your-repo)
+# Input-type
 
 A modern web app built with **React**, **Vite**, **TypeScript**, and **TailwindCSS**.  
 This project is fast, scalable, and easy to maintain.
